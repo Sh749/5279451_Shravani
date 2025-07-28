@@ -1,10 +1,10 @@
-# 📄 My Certificates
+#  My Certificates
 
 Below are my uploaded certificates:
 
 ---
 
-### 🏆 Certificate 1 — JPG
+###  Certificate 1 — JPG
 
 ![Certificate JPG Preview](certificates/5279451_Shravani.jpg)
 
@@ -12,7 +12,7 @@ Below are my uploaded certificates:
 
 ---
 
-### 🏆 Certificate 2 — PNG
+###  Certificate 2 — PNG
 
 ![Certificate PNG Preview](certificates/5279451_Shravani.png)
 

@@ -1,5 +1,21 @@
-## 🖼 Certificates (Image)
+# 🎓 My Certificates
 
-![Certificate](certificates/5279451_shravani.png)
-![Certificate](certificates/5279451_Shravani.jpg)
+These are the certificates I earned.
+
+---
+
+## 🖼️ Certificate Previews
+
+### 📜 Certificate 1 (JPG)
+![Certificate JPG](certificates/5279451_Shravani.jpg)
+
+[🔗 Download JPG Certificate](certificates/5279451_Shravani.jpg)
+
+---
+
+### 📜 Certificate 2 (PNG)
+![Certificate PNG](certificates/5279451_Shravani.png)
+
+[🔗 Download PNG Certificate](certificates/5279451_Shravani.png)
+
 

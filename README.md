@@ -14,6 +14,6 @@ Below are my uploaded certificates:
 
 ###  Certificate 2 — PNG
 
-![Certificate PNG Preview](certificates/5279451_Shravani.png)
+![Certificate PNG Preview](certificates/5279451_shravani.png)
 
-[📥 Download PNG Certificate](certificates/5279451_Shravani.png)
+[📥 Download PNG Certificate](certificates/5279451_shravani.png)

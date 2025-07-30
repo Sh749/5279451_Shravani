@@ -20,3 +20,4 @@ These are the certificates I earned.
 [Download PNG Certificate](5279451_Shravani.png)
 
 
+[📄 Download Linux Command PDF](5279451_Shravaniduragkar.pdf)

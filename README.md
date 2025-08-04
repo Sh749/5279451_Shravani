@@ -24,3 +24,15 @@ These are the certificates I earned.
 
 
 [ Download Linux Command PDF](5279451_Shravanilinux.pdf)
+
+
+###  Certificate  (JPG)
+![Certificate PNG Preview](5279451_Shravani_Introduction to C.jpg)
+
+[Download PNG Certificate](5279451_Shravani_Introduction to C.jpg)
+
+
+###  Certificate  (JPG)
+![Certificate PNG Preview](5279451_Shravani_C intermediate.jpg)
+
+[Download PNG Certificate](5279451_Shravani_C intermediate.jpg)

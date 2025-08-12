@@ -20,13 +20,6 @@ These are the certificates I earned.
 [Download PNG Certificate](5279451_Shravani.png)
 
 
-### Linux Commands
-
-[ Download Linux Command PDF](5279451_Shravaniduragkar.pdf)
-
-
-[ Download Linux Command PDF](5279451_Shravanilinux.pdf)
-
 
 ## Certificate Previews
 
